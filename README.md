@@ -1,2 +1,4 @@
-# sabm_course17
-GitHub Tutorial for NetLogo, ABM2017
+# SESYNC Spatial ABM Course 2017 
+
+Tutorial on creating spatial ABM 
+
